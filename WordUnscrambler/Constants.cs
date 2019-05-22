@@ -8,7 +8,7 @@ namespace WordUnscrambler
 {
     class Constants
     {
-        public const string OptionsOnHowToEnterScrambledWords = "Enter scrambled word(s) manually or as a file: F- file/M - manual";
+        public const string OptionsOnHowToEnterScrambledWords = "Enter scrambled word(s) manually or as a file: F - file/M - manual";
         public const string OptionsonContinuingTheProgram = "Would you like to continue Y/N";
 
         public const string EnterScrambledWordsViaFile = "Enter full path including the file name: ";

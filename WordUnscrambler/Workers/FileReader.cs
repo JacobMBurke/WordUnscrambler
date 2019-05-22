@@ -12,6 +12,7 @@ namespace WordUnscrambler.Workers
         public string[] Read(string fileName)
         {
             string[] fileContent;
+
             try
             {
                 fileContent = File.ReadAllLines(fileName);
