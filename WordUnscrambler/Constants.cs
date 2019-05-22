@@ -26,6 +26,6 @@ namespace WordUnscrambler
         public const string File = "F";
         public const string Manual = "M";
 
-        public const string WordListFileName = "wordlist.txt";
+        public const string WordListFileName = "../../resource/wordlist.txt";
     }
 }
